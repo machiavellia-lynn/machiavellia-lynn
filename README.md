@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi everyone! I'm Machiavellia 👋
 
-<!--
-**machiavellia-lynn/machiavellia-lynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Data Science field related
+- 🛠️ Looking forward to contribute and collab in any projects
 
-Here are some ideas to get you started:
+<div style="text-align: center;"><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- GitHub stats -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Machiavellia-lynn&show_icons=true&theme=react&rank_icon=github" alt="GitHub stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machiavellia-lynn&layout=donut&theme=react" alt="Top Langs" height="180"/>
+  </div>
+
+  <!-- Language and tools icons -->
+  <div style="margin-top: 20px;"><br>
+    <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img alt="Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+    <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  </div>
+
+  <!-- Snake animation -->
+  <div style="margin-top: 30px;">
+    <img src="https://raw.githubusercontent.com/machiavellia-lynn/contribution_snake/main/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" style="max-width: 100%; height: auto;"/>
+  </div>
+
+</div>
