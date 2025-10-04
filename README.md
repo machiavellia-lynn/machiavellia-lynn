@@ -20,7 +20,7 @@
     <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   </div>
-##
+  
   <!-- Snake animation -->
   <div style="margin-top: 30px;">
     <img src="https://raw.githubusercontent.com/machiavellia-lynn/contribution_snake/main/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" style="max-width: 100%; height: auto;"/>
