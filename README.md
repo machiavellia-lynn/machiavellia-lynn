@@ -7,10 +7,13 @@
 
   <!-- GitHub stats -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Machiavellia-lynn&show_icons=true&theme=react&rank_icon=github" alt="GitHub stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machiavellia-lynn&layout=donut&theme=react" alt="Top Langs" height="180"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=machiavellia-lynn&show_icons=true&theme=react&rank_icon=github&cache_bust=1" alt="machi's GitHub stats" style="height: 180px;"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machiavellia-lynn&layout=donut&theme=react&cache_bust=1" alt="Top Langs" style="height: 180px;"/>
+    </a>
   </div>
-
   <!-- Language and tools icons -->
   <div style="margin-top: 20px;"><br>
     <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
