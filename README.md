@@ -25,9 +25,7 @@
   </div>
   
   <!-- Snake animation -->
-  <div style="margin-top: 30px;">
-    <img src="https://raw.githubusercontent.com/machiavellia-lynn/contribution_snake/main/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" style="max-width: 100%; height: auto;"/>
-  </div>
+![Snake animation](https://github.com/machiavellia-lynn/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
 </div>
 <!-- Updated: Sat Oct  4 08:50:38 UTC 2025 -->
