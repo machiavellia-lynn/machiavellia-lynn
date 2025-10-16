@@ -8,10 +8,10 @@
   <!-- GitHub stats -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=machiavellia-lynn&show_icons=true&theme=react&rank_icon=github&cache_bust=0" alt="machi's GitHub stats" style="height: 180px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=machiavellia-lynn&show_icons=true&theme=react&rank_icon=github&cache_bust=1" alt="machi's GitHub stats" style="height: 180px;"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machiavellia-lynn&layout=donut&theme=react&cache_bust=0" alt="Top Langs" style="height: 180px;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machiavellia-lynn&layout=donut&theme=react&cache_bust=1" alt="Top Langs" style="height: 180px;"/>
     </a>
   </div>
   <!-- Language and tools icons -->
