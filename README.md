@@ -7,7 +7,7 @@ $ cat focus.txt
 Money Flow  ·  Smart Money / Bad Money  ·  Broker Summary  ·  Foreign Flow
 
 $ ls ./flagship
-zenith/  zenith-sb-mcp/  muse-desktop/
+zenith/  zenith-sb-mcp
 
 $ ./zenith --status
 ● LIVE — tracking accumulation, distribution & running trade
