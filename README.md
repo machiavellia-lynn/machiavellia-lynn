@@ -1,80 +1,63 @@
-<h1 align="center">Hi, I'm Machiavellia</h1>
-<h3 align="center">Market Analyst — IDX Money Flow, Smart Money & Broker Flow</h3>
+```bash
+$ whoami
+machiavellia — IDX Market Analyst
+# Location: New Taipei, Taiwan  ·  Market: IDX (Indonesia)
 
-<p align="center">
-  I track where the money actually moves in the Indonesian market — foreign flow, broker accumulation / distribution, and smart money vs bad money — and I build the tools to see it clearly.
-</p>
+$ cat focus.txt
+Money Flow  ·  Smart Money / Bad Money  ·  Broker Summary  ·  Foreign Flow
 
-<p align="center">
-  <a href="https://machiavellia-lynn.github.io/mylink/">Website</a> •
-  <a href="https://github.com/machiavellia-lynn/zenith_saas">Zenith</a> •
-  <a href="https://github.com/machiavellia-lynn/zenith-sb-mcp">Zenith MCP</a>
-</p>
+$ ls ./flagship
+zenith/  zenith-sb-mcp/  muse-desktop/
+
+$ ./zenith --status
+● LIVE — tracking accumulation, distribution & running trade
+```
+
+I track where money actually moves in the Indonesian market — not opinions, not noise. Flow first.
+
+I build **Zenith** to do it properly: a money-flow analytics platform for IDX that classifies flow per stock, per broker, per window.
+
+> A broker code is a channel, not a person. I label the *event* in the window — never the broker forever.
 
 ---
 
-### About Me
+### Market Desk
 
-- 📈 **Market Analyst** focused on **Indonesia Stock Exchange (IDX)**
-- 🔍 Specializing in **money flow analysis**: Smart Money, Bad Money, Clean Money, foreign flow & broker summary
-- 🛠️ Builder of **Zenith** — an IDX money flow analytics platform for tracking accumulation, distribution, and running trade in real time
-- 🎓 Student at **Tamkang University, Taiwan**
-- ✍️ Creating market education content with **Simple Trading Academy**
+| Coverage | What I Track | Signal |
+| :--- | :--- | :--- |
+| **Money Flow** | Smart Money · Bad Money · Clean Money per emiten, daily & weekly | Net accumulation vs distribution |
+| **Broker Summary** | Per-stock broker breakdown, window attribution after close | Who is loading, who is exiting |
+| **Running Trade** | Tape per symbol, per date — up to full-day walks | Real prints, not snapshots |
+| **Foreign Flow** | Net foreign buy / sell & IHSG weekly context | Friday close vs prior Friday close |
 
-> A broker code is a channel, not a person. I label the *event* — accumulation or distribution in a window — not the broker forever.
+### Flagship
 
-### What I Do
+**[Zenith](https://github.com/machiavellia-lynn/zenith_saas)** — IDX money flow analytics. SPA with persistent shell, live chart, broker summary, running trade, and EOD summary.
 
-| Area | Focus |
-| :--- | :--- |
-| **Money Flow** | Daily & weekly flow, net foreign, top accumulation / distribution |
-| **Broker Analysis** | Broker summary, window attribution after close, SM / BM classification |
-| **Market Structure** | Running trade, tape reading, IHSG weekly review |
-| **Tooling** | Building Zenith + private MCP servers for IDX data via Stockbit |
+**[zenith-sb-mcp](https://github.com/machiavellia-lynn/zenith-sb-mcp)** — Read-only MCP server for IDX data via Stockbit. Bring your own login. No order placement.
 
-### Featured Project — Zenith
+**[muse-desktop](https://github.com/machiavellia-lynn/muse-desktop)** — Safe, unofficial Muse Desktop for Windows. Tauri + Rust, sandboxed to one folder you choose.
 
-**Zenith** is my flagship project: a single-page analytics app for IDX money flow.
+Student at Tamkang University · Creating market education with Simple Trading Academy
 
-- Money flow dashboard (Smart / Bad / Clean Money)
-- Broker summary & per-stock flow breakdown
-- Running trade & live chart
-- EOD summary and weekly flow aggregation
+### Stack
 
-→ [zenith_saas](https://github.com/machiavellia-lynn/zenith_saas) — main Zenith app  
-→ [zenith-sb-mcp](https://github.com/machiavellia-lynn/zenith-sb-mcp) — Read-only MCP server for IDX data via Stockbit. No order placement.  
-→ [muse-desktop](https://github.com/machiavellia-lynn/muse-desktop) — Safe, unofficial Muse Desktop companion for Windows (Tauri + Rust)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,flask,postgres,mysql,rust,kotlin,git,github" alt="Stack" />
+</p>
 
-### Tech I Use for Analysis & Building
+### Activity
 
-<div>
-  <img alt="Python" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="TypeScript" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="JavaScript" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="PostgreSQL" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img alt="MySQL" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="HTML5" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="Rust" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-  <img alt="Kotlin" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img alt="Git" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=machiavellia-lynn&bg_color=0D1117&color=7EE787&line=00C853&point=FF7B72&area=true&hide_border=true&title_color=7EE787" alt="Activity Graph" width="100%"/>
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=machiavellia-lynn&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Machiavellia's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machiavellia-lynn&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
+<details>
+<summary><b>GitHub stats</b></summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=machiavellia-lynn&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=C9D1D9&hide_border=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machiavellia-lynn&layout=compact&bg_color=0D1117&title_color=00C853&text_color=C9D1D9&hide_border=true" alt="Top Languages" height="170"/>
+</details>
 
 ![Snake animation](https://github.com/machiavellia-lynn/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
-</div>
-
 ---
-
-<p align="center">
-  <i>Markets move on flow, not noise. Track the flow.</i>
-</p>
+<p align="center"><code>markets move on flow, not noise — track the flow.</code></p>
