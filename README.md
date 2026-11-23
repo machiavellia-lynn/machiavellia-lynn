@@ -36,7 +36,6 @@ I build **Zenith** to do it properly: a money-flow analytics platform for IDX th
 
 **[zenith-sb-mcp](https://github.com/machiavellia-lynn/zenith-sb-mcp)** — Read-only MCP server for IDX data via Stockbit. Bring your own login. No order placement.
 
-**[muse-desktop](https://github.com/machiavellia-lynn/muse-desktop)** — Safe, unofficial Muse Desktop for Windows. Tauri + Rust, sandboxed to one folder you choose.
 
 Student at Tamkang University · Creating market education with Simple Trading Academy
 
